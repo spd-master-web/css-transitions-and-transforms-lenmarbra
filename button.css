@@ -1,1 +1,41 @@
 /* button */
+
+
+body{
+  background-color: rgb(250, 252, 251);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+p{
+  margin: 1.2em 0.5em;
+}
+
+a{
+padding: .2em .3em;
+border-radius: 20em;
+width: 3.2em;
+margin: 18em auto;
+
+display: flex;
+
+color: white;
+background-color: black;
+text-decoration: none;
+overflow: hidden;
+
+transition-property: background-color;
+transition-duration: 4s;
+transition-timing-function: ease-in-out;
+}
+
+a:hover{
+  width: 8em;
+  border-radius: 2em;
+  box-shadow: 5px 7px 7px 0px #979696;
+}
+
+
+
+
+
