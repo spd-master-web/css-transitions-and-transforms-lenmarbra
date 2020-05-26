@@ -24,8 +24,8 @@ background-color: black;
 text-decoration: none;
 overflow: hidden;
 
-transition-property: background-color;
-transition-duration: 4s;
+transition-property: width;
+transition-duration: 0.5s;
 transition-timing-function: ease-in-out;
 }
 
