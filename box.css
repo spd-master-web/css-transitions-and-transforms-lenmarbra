@@ -54,13 +54,13 @@
    z-index: 2;
 
    transform: translateX(-12em);
-   transition: 200ms ease-in;
-   transition-delay: 200ms;
+   transition: 360ms ease-in;
+   transition-delay: 360ms;
  }
  
 .box:hover .color-three{
   transform: translateX(0);
-  transition: 200ms ease-in-out;
+  transition: 360ms ease-in-out;
   transition-delay: 500ms;
  }
  
